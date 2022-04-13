@@ -1,2 +1,3 @@
 # learin
 Qanaqadir kamentariya
+Salom
